@@ -1,4 +1,4 @@
-Weather App Project
+### Weather App Project
 Welcome to the Weather App project! Here's a brief overview of our journey in creating this application:
 
 Objective
